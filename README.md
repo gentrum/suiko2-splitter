@@ -9,10 +9,9 @@ Thanks!
 -Carter / Gentrum
 
 Configure the build:
+mkdir build<br>
+cmake -S . -B build<br>
 
-mkdir build
-cmake -S . -B build
-
-Build in debug
-cmake --build build
-.\build\Debug\runTests.exe
+Build in debug:
+cmake --build build<br>
+.\build\Debug\runTests.exe<br>
