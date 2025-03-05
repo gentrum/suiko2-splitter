@@ -1,0 +1,11 @@
+/build/
+
+/libs/googletest/
+
+*.log
+*.tmp
+*.swp
+*.bak
+*.user
+*.DS_Store
+*.vscode/
