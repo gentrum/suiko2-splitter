@@ -8,10 +8,10 @@ Thanks!
 
 -Carter / Gentrum
 
-Configure the build:
+Configure the build:<br>
 mkdir build<br>
 cmake -S . -B build<br>
 
-Build in debug:
+Build in debug:<br>
 cmake --build build<br>
 .\build\Debug\runTests.exe<br>
